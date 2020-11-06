@@ -3,7 +3,7 @@ import Vue from "vue";
 
 export default {
   state: {
-    loginStatus: false,
+    loginStatus: true,
     login_success_message: "",
     login_fail_message: "",
     login_in_progress: false,

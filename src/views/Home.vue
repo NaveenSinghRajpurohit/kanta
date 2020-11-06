@@ -36,7 +36,7 @@ export default {
   components: {
     HelloWorld,
     Login,
-    Register,
+    Register
   },
   computed: {
     ...mapGetters(["isLogin"]),
