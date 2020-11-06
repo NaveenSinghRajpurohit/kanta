@@ -7,9 +7,18 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "axios": "^0.21.0",
+    "axios-auth-refresh": "^3.0.0",
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.18.1",
     "core-js": "^3.6.5",
+    "intersection-observer": "^0.11.0",
+    "moment-timezone": "^0.5.31",
+    "regenerator-runtime": "^0.13.7",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
+    "vue-moment": "^4.1.0",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
   },
